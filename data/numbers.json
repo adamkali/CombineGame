@@ -1,0 +1,50 @@
+[
+    {
+        "number": 2,
+        "score": 0
+    },
+    {
+        "number": 4,
+        "score": 0
+    },
+    {
+        "number": 8,
+        "score": 0
+    },
+    {
+        "number": 16,
+        "score": 0
+    },
+    {
+        "number": 32,
+        "score": 0
+    },
+    {
+        "number": 64,
+        "score": 5000
+    },
+    {
+        "number": 128,
+        "score": 10000
+    },
+    {
+        "number": 256,
+        "score": 20000
+    },
+    {
+        "number": 1024,
+        "score": 40000
+    },
+    {
+        "number": 2048,
+        "score": 80000
+    },
+    {
+        "number": 4096,
+        "score": 160000
+    },
+    {
+        "number": 8192,
+        "score": 320000
+    }
+]
